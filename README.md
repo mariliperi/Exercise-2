@@ -1,2 +1,3 @@
 # Exercise-2
-Exercise about Simple tables using HTML
+Exercise about Tables using HTML
+ 
